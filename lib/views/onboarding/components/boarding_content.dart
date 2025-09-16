@@ -29,7 +29,7 @@ class OnboardingContent extends StatelessWidget {
         text,
         textAlign: TextAlign.center,
         style: TextStyle(
-          color: Colors.amber
+          color: textColor
         )
       )
       ],
